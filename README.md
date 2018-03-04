@@ -10,4 +10,4 @@
   <li>Please note access to MatLab required to compile correctly</li>
 </ul>
 
-<p>Please contact for fixes, changes further instructions</p>
+<p>Please contact for fixes, changes or further instructions</p>
