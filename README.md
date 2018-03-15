@@ -7,7 +7,7 @@
   <li>Take picture of coin or use a system image</li>
   <li>Detect the amount of coins</li>
   <li>Display the coins</li>
-  <li>Please note access to MatLab required to compile correctly</li>
+  <li>Please note access to MatLab required to compile correctly with correct libraries</li>
 </ul>
 
 <p>Please contact for fixes, changes or further instructions</p>
