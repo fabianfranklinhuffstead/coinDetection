@@ -1,6 +1,6 @@
 # coinDetection
 
-<p>A solution for detecting and sum of coins</p>
+<p>A solution for detecting and sum of coins.</p>
 
 <h2>The task: </h2>
 <ul>
