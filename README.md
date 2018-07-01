@@ -14,4 +14,4 @@
 
 <p>Example coin image can be found <a href="http://www.sawp.com.br/blog/wp-content/uploads/2011/02/coins.bmp">here</a> for testing purposes or use file bmp.</p>
 
-<img src="https://raw.githubusercontent.com/fabianfranklinhuffstead/coinDetection/master/src/Ex0801/coins.bmp" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/fabianfranklinhuffstead/coinDetection/master/src/Ex0801/coins.bmp" height="30%" width="30%">
