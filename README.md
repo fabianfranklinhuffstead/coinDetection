@@ -1,8 +1,6 @@
 # coinDetection
-
-<p>A solution for detecting and sum of coins.</p>
-
 <img src="https://github.com/fabianfranklinhuffstead/coinDetection/blob/master/src/matlab.png" width="20%" height="20%">
+<p>A solution for detecting and sum of coins.</p>
 
 <h2>The task: </h2>
 <ul>
