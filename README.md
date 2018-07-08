@@ -2,7 +2,7 @@
 
 <p>A solution for detecting and sum of coins.</p>
 
-<img src="https://github.com/fabianfranklinhuffstead/coinDetection/blob/master/src/matlab.png" width="50%" height="50%">
+<img src="https://github.com/fabianfranklinhuffstead/coinDetection/blob/master/src/matlab.png" width="20%" height="20%">
 
 <h2>The task: </h2>
 <ul>
